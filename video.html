@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<script language="javascript" type="text/javascript" src="https://media.web.dnb.no/s7viewers/html5/js/SmartCropVideoViewer.js"></script>
+		<title></title>
+	</head>
+	<body>
+		<div id="s7smartcropvideo_div"></div>
+		<script type="text/javascript">
+		var smartCropVideoViewer = new s7viewers.SmartCropVideoViewer();
+		smartCropVideoViewer.setParam("videoserverurl", "https://media.web.dnb.no/is/content/");
+		smartCropVideoViewer.setParam("serverurl", "https://media.web.dnb.no/is/image/");
+		smartCropVideoViewer.setParam("contenturl", "https://media.web.dnb.no/is/content/");
+		smartCropVideoViewer.setParam("style", "dnbbanklocal/_CSS/_OOTB/html5_smartcropvideoviewersocial.css");
+		smartCropVideoViewer.setAsset("dnbbanklocal/boat-lake-AVS?cache=off");
+		//smartCropVideoViewer.setParam("stagesize", "640,480");
+		smartCropVideoViewer.setParam("emailurl", "https://media.web.dnb.no/s7/emailFriend");
+		smartCropVideoViewer.setParam("config", "dnbbanklocal/SmartCropVideo_social?cache=off");
+		smartCropVideoViewer.setParam("responsive", "fit");
+		smartCropVideoViewer.setContainerId("s7smartcropvideo_div");
+		smartCropVideoViewer.init();
+		</script>
+	</body>
+</html>
