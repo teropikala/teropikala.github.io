@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:eli-dl="http://data.europa.eu/eli/eli-draft-legislation-ontology#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:epvoc="https://data.europarl.europa.eu/def/epvoc#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:person="http://www.w3.org/ns/person#"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> 
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/256810">
+    <dcterms:identifier>256810</dcterms:identifier>
+    <rdfs:label>Mika AALTOLA</rdfs:label>
+    <epvoc:sortLabel>AALTOLAM</epvoc:sortLabel>
+    <foaf:givenName>Mika</foaf:givenName>
+    <foaf:familyName>Aaltola</foaf:familyName>
+  </foaf:Person>
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/256805">
+    <dcterms:identifier>256805</dcterms:identifier>
+    <rdfs:label>Li ANDERSSON</rdfs:label>
+    <epvoc:sortLabel>ANDERSSONL</epvoc:sortLabel>
+    <foaf:givenName>Li</foaf:givenName>
+    <foaf:familyName>Andersson</foaf:familyName>
+  </foaf:Person>
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/197621">
+    <foaf:givenName>Juan Ignacio</foaf:givenName>
+    <epvoc:sortLabel>ZOIDOALVAREZ</epvoc:sortLabel>
+    <dcterms:identifier>197621</dcterms:identifier>
+    <foaf:familyName>Zoido Álvarez</foaf:familyName>
+    <rdfs:label>Juan Ignacio ZOIDO ÁLVAREZ</rdfs:label>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197621-m-17209">
+        <euvoc:represents>
+          <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/country/ESP">
+            <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/alignment/ep_countryIsoCode2_eu"
+            >ES</skos:notation>
+          </rdf:Description>
+        </euvoc:represents>
+      </rdf:Description>
+    </org:hasMembership>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197621-f-172530">
+        <org:organization>
+          <rdf:Description rdf:about="https://data.europarl.europa.eu/org/7018">
+            <rdfs:label>PPE</rdfs:label>
+          </rdf:Description>
+        </org:organization>
+      </rdf:Description>
+    </org:hasMembership>
+  </foaf:Person>
+</rdf:RDF>
