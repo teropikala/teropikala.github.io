@@ -79,17 +79,6 @@
         <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_PARLIAMENT"/>
       </org:Membership>
     </org:hasMembership>
-    <org:hasMembership>
-      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-173570">
-        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6564"/>
-        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
-        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
-        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240719"/>
-        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
-        >173570</skos:notation>
-        <dcterms:identifier>256810-f-173570</dcterms:identifier>
-      </org:Membership>
-    </org:hasMembership>
     <epvoc:upperFamilyName>AALTOLA</epvoc:upperFamilyName>
     <vcard:hasGender rdf:resource="http://publications.europa.eu/resource/authority/human-sex/MALE"/>
     <org:hasMembership>

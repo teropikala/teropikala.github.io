@@ -18,7 +18,23 @@
     <vcard:hasHonorificPrefix rdf:resource="http://publications.europa.eu/resource/authority/honorific/MR"/>
     <rdfs:label>Mika AALTOLA</rdfs:label>
     <vcard:hasEmail rdf:resource="mailto:mika.aaltola@europarl.europa.eu"/>
-    <foaf:familyName>Aaltola</foaf:familyName> 
+    <foaf:familyName>Aaltola</foaf:familyName>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-172845">
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240719">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >172845</skos:notation>
+        <dcterms:identifier>256810-f-172845</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6562"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+      </org:Membership>
+    </org:hasMembership>
     <foaf:account>
       <foaf:OnlineAccount rdf:about="https://www.facebook.com/MikaAaltola2024/?locale=fi_FI">
         <dcterms:type rdf:resource="http://publications.europa.eu/resource/authority/address-type/FBW"/>
