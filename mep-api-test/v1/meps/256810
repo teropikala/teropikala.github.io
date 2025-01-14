@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:eli-dl="http://data.europa.eu/eli/eli-draft-legislation-ontology#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:epvoc="https://data.europarl.europa.eu/def/epvoc#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:person="http://www.w3.org/ns/person#"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/256810">
+    <vcard:hasHonorificPrefix rdf:resource="http://publications.europa.eu/resource/authority/honorific/MR"/>
+    <rdfs:label>Mika AALTOLA</rdfs:label>
+    <vcard:hasEmail rdf:resource="mailto:mika.aaltola@europarl.europa.eu"/>
+    <foaf:familyName>Aaltola</foaf:familyName>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-172845">
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240719">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >172845</skos:notation>
+        <dcterms:identifier>256810-f-172845</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6562"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+      </org:Membership>
+    </org:hasMembership>
+    <foaf:account>
+      <foaf:OnlineAccount rdf:about="https://www.facebook.com/MikaAaltola2024/?locale=fi_FI">
+        <dcterms:type rdf:resource="http://publications.europa.eu/resource/authority/address-type/FBW"/>
+      </foaf:OnlineAccount>
+    </foaf:account>
+    <foaf:account>
+      <foaf:OnlineAccount rdf:about="https://www.instagram.com/maaltola/?hl=fi">
+        <dcterms:type rdf:resource="http://publications.europa.eu/resource/authority/address-type/IST"/>
+      </foaf:OnlineAccount>
+    </foaf:account>
+    <foaf:img rdf:resource="https://www.europarl.europa.eu/mepphoto/256810.jpg"/>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-m-16832">
+        <euvoc:represents rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictMandateId"
+        >16832</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/ep-10"/>
+        <dcterms:identifier>256810-m-16832</dcterms:identifier>
+        <dcat:contactPoint>
+          <epvoc:ContactPoint rdf:about="https://data.europarl.europa.eu/contact-point/256810-m-16832-T08057">
+            <euvoc:officeAddress>T08057</euvoc:officeAddress>
+            <epvoc:hasSite rdf:resource="http://publications.europa.eu/resource/authority/site/LOW"/>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="https://data.europarl.europa.eu/tel/0033388175975">
+                <vcard:hasValue rdf:resource="tel:+33388175975"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </epvoc:ContactPoint>
+        </dcat:contactPoint>
+        <dcat:contactPoint>
+          <epvoc:ContactPoint rdf:about="https://data.europarl.europa.eu/contact-point/256810-m-16832-06F164">
+            <euvoc:officeAddress>06F164</euvoc:officeAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="https://data.europarl.europa.eu/tel/003222845975">
+                <vcard:hasValue rdf:resource="tel:+3222845975"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <epvoc:hasSite rdf:resource="http://publications.europa.eu/resource/authority/site/ASP"/>
+          </epvoc:ContactPoint>
+        </dcat:contactPoint>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240716">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-16</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_PARLIAMENT"/>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-173570">
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6564"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240719"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >173570</skos:notation>
+        <dcterms:identifier>256810-f-173570</dcterms:identifier>
+      </org:Membership>
+    </org:hasMembership>
+    <epvoc:upperFamilyName>AALTOLA</epvoc:upperFamilyName>
+    <vcard:hasGender rdf:resource="http://publications.europa.eu/resource/authority/human-sex/MALE"/>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-172519">
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_POLITICAL_GROUP"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/7018"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240716"/>
+        <dcterms:identifier>256810-f-172519</dcterms:identifier>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >172519</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-176451">
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >176451</skos:notation>
+        <dcterms:identifier>256810-f-176451</dcterms:identifier>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_JOINT_COMMITTEE"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6629"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240919-20241002">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-10-02</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-09-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+      </org:Membership>
+    </org:hasMembership>
+    <person:citizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+    <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictPersonId"
+    >256810</skos:notation>
+    <foaf:givenName>Mika</foaf:givenName>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-169450">
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/ep-10"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240716"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_INSTITUTION"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >169450</skos:notation>
+        <dcterms:identifier>256810-f-169450</dcterms:identifier>
+      </org:Membership>
+    </org:hasMembership>
+    <foaf:account>
+      <foaf:OnlineAccount rdf:about="https://www.linkedin.com/in/mika-aaltola-6385501b/?originalSubdomain=fi">
+        <dcterms:type rdf:resource="http://publications.europa.eu/resource/authority/address-type/LNK"/>
+      </foaf:OnlineAccount>
+    </foaf:account>
+    <vcard:bday rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1969-05-02</vcard:bday>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-175560">
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >175560</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6604"/>
+        <dcterms:identifier>256810-f-175560</dcterms:identifier>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240919">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-09-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY"/>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-177291">
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >177291</skos:notation>
+        <dcterms:identifier>256810-f-177291</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6629"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/CHAIR_VICE"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_JOINT_COMMITTEE"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20241003">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-10-03</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+      </org:Membership>
+    </org:hasMembership>
+    <person:placeOfBirth>Jämsänkoski</person:placeOfBirth>
+    <epvoc:upperGivenName>MIKA</epvoc:upperGivenName>
+    <dcterms:identifier>256810</dcterms:identifier>
+    <epvoc:sortLabel>AALTOLAM</epvoc:sortLabel>
+    <foaf:account>
+      <foaf:OnlineAccount rdf:about="https://x.com/MikaAaltola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+        <dcterms:type rdf:resource="http://publications.europa.eu/resource/authority/address-type/TWT"/>
+      </foaf:OnlineAccount>
+    </foaf:account>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256810-f-171679">
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >171679</skos:notation>
+        <dcterms:identifier>256810-f-171679</dcterms:identifier>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/NATIONAL_CHAMBER"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6726"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240716"/>
+      </org:Membership>
+    </org:hasMembership>
+  </foaf:Person>
+</rdf:RDF>

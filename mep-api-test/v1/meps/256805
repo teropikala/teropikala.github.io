@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:eli-dl="http://data.europa.eu/eli/eli-draft-legislation-ontology#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:epvoc="https://data.europarl.europa.eu/def/epvoc#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:person="http://www.w3.org/ns/person#"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/256805">
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-173574">
+        <dcterms:identifier>256805-f-173574</dcterms:identifier>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >173574</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6574"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240719-20250119">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2025-01-19</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-175268">
+        <dcterms:identifier>256805-f-175268</dcterms:identifier>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240919">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-09-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6593"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >175268</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-175233">
+        <dcterms:identifier>256805-f-175233</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6592"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240919"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_SUBSTITUTE"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >175233</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <epvoc:upperFamilyName>ANDERSSON</epvoc:upperFamilyName>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-173466">
+        <dcterms:identifier>256805-f-173466</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6572"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240719-20240722">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-22</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-19</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >173466</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <foaf:img rdf:resource="https://www.europarl.europa.eu/mepphoto/256805.jpg"/>
+    <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictPersonId"
+    >256805</skos:notation>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-172222">
+        <dcterms:identifier>256805-f-172222</dcterms:identifier>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240716-20240717">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-16</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-17</dcat:endDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/7036"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_POLITICAL_GROUP"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >172222</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <vcard:bday rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1987-05-13</vcard:bday>
+    <vcard:hasEmail rdf:resource="mailto:li.andersson@europarl.europa.eu"/>
+    <epvoc:upperGivenName>LI</epvoc:upperGivenName>
+    <dcterms:identifier>256805</dcterms:identifier>
+    <foaf:familyName>Andersson</foaf:familyName>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-176698">
+        <dcterms:identifier>256805-f-176698</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6569"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240919"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >176698</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <foaf:givenName>Li</foaf:givenName>
+    <person:citizenship rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+    <person:placeOfBirth>Turku</person:placeOfBirth>
+    <vcard:hasGender rdf:resource="http://publications.europa.eu/resource/authority/human-sex/FEMALE"/>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-174905">
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_POLITICAL_GROUP"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240718">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-18</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >174905</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/7036"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_BUREAU"/>
+        <dcterms:identifier>256805-f-174905</dcterms:identifier>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-169420">
+        <dcterms:identifier>256805-f-169420</dcterms:identifier>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240716">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-16</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/ep-10"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_INSTITUTION"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >169420</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-m-16817">
+        <euvoc:represents rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+        <dcterms:identifier>256805-m-16817</dcterms:identifier>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/ep-10"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240716"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER_PARLIAMENT"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictMandateId"
+        >16817</skos:notation>
+        <dcat:contactPoint>
+          <epvoc:ContactPoint rdf:about="https://data.europarl.europa.eu/contact-point/256805-m-16817-G01034">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="https://data.europarl.europa.eu/tel/0033388175956">
+                <vcard:hasValue rdf:resource="tel:+33388175956"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <epvoc:hasSite rdf:resource="http://publications.europa.eu/resource/authority/site/SDM"/>
+            <euvoc:officeAddress>G01034</euvoc:officeAddress>
+          </epvoc:ContactPoint>
+        </dcat:contactPoint>
+        <dcat:contactPoint>
+          <epvoc:ContactPoint rdf:about="https://data.europarl.europa.eu/contact-point/256805-m-16817-07H153">
+            <euvoc:officeAddress>07H153</euvoc:officeAddress>
+            <epvoc:hasSite rdf:resource="http://publications.europa.eu/resource/authority/site/ASP"/>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="https://data.europarl.europa.eu/tel/003222845956">
+                <vcard:hasValue rdf:resource="tel:+3222845956"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </epvoc:ContactPoint>
+        </dcat:contactPoint>
+      </org:Membership>
+    </org:hasMembership>
+    <epvoc:sortLabel>ANDERSSONL</epvoc:sortLabel>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-176834">
+        <dcterms:identifier>256805-f-176834</dcterms:identifier>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240919"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6573"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >176834</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-171315">
+        <dcterms:identifier>256805-f-171315</dcterms:identifier>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240716"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/NATIONAL_CHAMBER"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >171315</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6795"/>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-175037">
+        <dcterms:identifier>256805-f-175037</dcterms:identifier>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"/>
+        <org:memberDuring>
+          <dcterms:PeriodOfTime rdf:about="https://data.europarl.europa.eu/time-period/20240723">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2024-07-23</dcat:startDate>
+          </dcterms:PeriodOfTime>
+        </org:memberDuring>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >175037</skos:notation>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6572"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/CHAIR"/>
+      </org:Membership>
+    </org:hasMembership>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-175097">
+        <dcterms:identifier>256805-f-175097</dcterms:identifier>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240723"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6633"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >175097</skos:notation>
+      </org:Membership>
+    </org:hasMembership>
+    <rdfs:label>Li ANDERSSON</rdfs:label>
+    <org:hasMembership>
+      <org:Membership rdf:about="https://data.europarl.europa.eu/membership/256805-f-176912">
+        <dcterms:identifier>256805-f-176912</dcterms:identifier>
+        <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/epvoc#codictFunctionId"
+        >176912</skos:notation>
+        <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"/>
+        <org:memberDuring rdf:resource="https://data.europarl.europa.eu/time-period/20240919"/>
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/6575"/>
+        <org:role rdf:resource="https://data.europarl.europa.eu/def/ep-roles/MEMBER"/>
+      </org:Membership>
+    </org:hasMembership>
+    <vcard:hasHonorificPrefix rdf:resource="http://publications.europa.eu/resource/authority/honorific/MS"/>
+  </foaf:Person>
+</rdf:RDF>
