@@ -28,4 +28,21 @@
     <foaf:givenName>Li</foaf:givenName>
     <foaf:familyName>Andersson</foaf:familyName>
   </foaf:Person>
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/256804">
+    <foaf:givenName>Pekka</foaf:givenName>
+    <rdfs:label>Pekka TOVERI</rdfs:label>
+    <dcterms:identifier>256804</dcterms:identifier>
+    <epvoc:sortLabel>TOVERIP</epvoc:sortLabel>
+    <foaf:familyName>Toveri</foaf:familyName>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/256804-m-16813">
+        <euvoc:represents rdf:resource="http://publications.europa.eu/resource/authority/country/FIN"/>
+      </rdf:Description>
+    </org:hasMembership>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/256804-f-172523">
+        <org:organization rdf:resource="https://data.europarl.europa.eu/org/7018"/>
+      </rdf:Description>
+    </org:hasMembership>
+  </foaf:Person>
 </rdf:RDF>
