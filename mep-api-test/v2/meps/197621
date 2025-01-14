@@ -33,7 +33,7 @@
         <dcterms:identifier>197621-f-158822</dcterms:identifier>
       </org:Membership>
     </org:hasMembership>
-    <foaf:familyName>Zoido Álvarez</foaf:familyName>
+    <foaf:familyName>Zoido Álvarez The Great</foaf:familyName>
     <org:hasMembership>
       <org:Membership rdf:about="https://data.europarl.europa.eu/membership/197621-f-174564">
         <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"/>
@@ -82,7 +82,7 @@
         <dcterms:identifier>197621-f-162275</dcterms:identifier>
       </org:Membership>
     </org:hasMembership>
-    <vcard:hasEmail rdf:resource="mailto:juanignacio.zoidoalvarez@europarl.europa.eu"/>
+    <vcard:hasEmail rdf:resource="mailto:juanignacio.zoidoalvarez.the-great@europarl.europa.eu"/>
     <org:hasMembership>
       <org:Membership rdf:about="https://data.europarl.europa.eu/membership/197621-f-170199">
         <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/EU_INSTITUTION"/>
@@ -317,7 +317,7 @@
     <person:placeOfBirth>Montellano - Sevilla</person:placeOfBirth>
     <dcterms:identifier>197621</dcterms:identifier>
     <rdfs:label>Juan Ignacio ZOIDO ÁLVAREZ</rdfs:label>
-    <foaf:givenName>Juan Ignacio</foaf:givenName>
+    <foaf:givenName>Juan Ignacio 3rd</foaf:givenName>
     <org:hasMembership>
       <org:Membership rdf:about="https://data.europarl.europa.eu/membership/197621-f-177378">
         <epvoc:membershipClassification rdf:resource="https://data.europarl.europa.eu/def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"/>
