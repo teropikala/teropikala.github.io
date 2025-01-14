@@ -45,4 +45,31 @@
       </rdf:Description>
     </org:hasMembership>
   </foaf:Person>
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/197621">
+    <foaf:familyName>Zoido Álvarez</foaf:familyName>
+    <dcterms:identifier>197621</dcterms:identifier>
+    <rdfs:label>Juan Ignacio ZOIDO ÁLVAREZ</rdfs:label>
+    <foaf:givenName>Juan Ignacio</foaf:givenName>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197621-m-17209">
+        <euvoc:represents>
+          <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/country/ESP">
+            <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/alignment/ep_countryIsoCode2_eu"
+            >ES</skos:notation>
+          </rdf:Description>
+        </euvoc:represents>
+      </rdf:Description>
+    </org:hasMembership>
+    <epvoc:sortLabel>ZOIDOALVAREZ</epvoc:sortLabel>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197621-f-172530">
+        <org:organization>
+          <rdf:Description rdf:about="https://data.europarl.europa.eu/org/7018">
+            <rdfs:label>PPE</rdfs:label>
+          </rdf:Description>
+        </org:organization>
+      </rdf:Description>
+    </org:hasMembership>
+  </foaf:Person>  
+
 </rdf:RDF>
