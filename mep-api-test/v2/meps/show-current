@@ -71,5 +71,31 @@
       </rdf:Description>
     </org:hasMembership>
   </foaf:Person>  
+  <foaf:Person rdf:about="https://data.europarl.europa.eu/person/197403">
+    <epvoc:sortLabel>AGIUSSALIBA</epvoc:sortLabel>
+    <rdfs:label>Alex AGIUS SALIBA</rdfs:label>
+    <foaf:givenName>Alex</foaf:givenName>
+    <foaf:familyName>Agius Saliba</foaf:familyName>
+    <dcterms:identifier>197403</dcterms:identifier>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197403-m-17048">
+        <euvoc:represents>
+          <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/country/MLT">
+            <skos:notation rdf:datatype="https://data.europarl.europa.eu/def/alignment/ep_countryIsoCode2_eu"
+            >MT</skos:notation>
+          </rdf:Description>
+        </euvoc:represents>
+      </rdf:Description>
+    </org:hasMembership>
+    <org:hasMembership>
+      <rdf:Description rdf:about="https://data.europarl.europa.eu/membership/197403-f-172720">
+        <org:organization>
+          <rdf:Description rdf:about="https://data.europarl.europa.eu/org/7038">
+            <rdfs:label>S&amp;D</rdfs:label>
+          </rdf:Description>
+        </org:organization>
+      </rdf:Description>
+    </org:hasMembership>
+  </foaf:Person>
 
 </rdf:RDF>
