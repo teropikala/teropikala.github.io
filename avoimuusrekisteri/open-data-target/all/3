@@ -1,0 +1,74 @@
+[
+	{
+		"createdAt": "2025-04-11",
+		"id": 2261,
+		"fiId": 7027,
+		"svId": 7028,
+		"enId": 7029,
+		"termId": 3,
+		"hash": "56bd46fa10bce5cea5c9c4311b405842",
+		"fi": {
+			"createdAt": "2025-04-11",
+			"id": 7027,
+			"organization": "Eduskunnan kanslia",
+			"department": "Eduskunnan kanslia ",
+			"unit": "-",
+			"title": "Eduskunnan pääsihteeri ",
+			"name": "Antti Pelttari"
+		},
+		"sv": {
+			"createdAt": "2025-04-11",
+			"id": 7028,
+			"organization": "Riksdagens kansli",
+			"department": "Riksdagens kansli",
+			"unit": "-",
+			"title": "Riksdagens generalsekreterare ",
+			"name": "Antti Pelttari"
+		},
+		"en": {
+			"createdAt": "2025-04-11",
+			"id": 7029,
+			"organization": "Parliamentary Office",
+			"department": "Parliamentary Office",
+			"unit": "-",
+			"title": "Secretary-General of Parliament ",
+			"name": "Antti Pelttari"
+		}
+	},
+	{
+		"createdAt": "2025-04-11",
+		"id": 2262,
+		"fiId": 7030,
+		"svId": 7031,
+		"enId": 7032,
+		"termId": 3,
+		"hash": "7896ac3022e77f4920fc85014fb17ea1",
+		"fi": {
+			"createdAt": "2025-04-11",
+			"id": 7030,
+			"organization": "Eduskunnan kanslia",
+			"department": "Eduskunnan kanslia ",
+			"unit": "-",
+			"title": "-",
+			"name": "-"
+		},
+		"sv": {
+			"createdAt": "2025-04-11",
+			"id": 7031,
+			"organization": "Riksdagens kansli",
+			"department": "Riksdagens kansli",
+			"unit": "-",
+			"title": "-",
+			"name": "-"
+		},
+		"en": {
+			"createdAt": "2025-04-11",
+			"id": 7032,
+			"organization": "Parliamentary Office",
+			"department": "Parliamentary Office",
+			"unit": "-",
+			"title": "-",
+			"name": "-"
+		}
+	}
+]
