@@ -70,5 +70,41 @@
 			"title": "-",
 			"name": "-"
 		}
+	},
+	{
+		"createdAt": "2025-04-11",
+		"id": 2570,
+		"fiId": 7804,
+		"svId": 7805,
+		"enId": 7806,
+		"termId": 3,
+		"hash": "e08b515671426c84372d96ff362b179e",
+		"fi": {
+			"createdAt": "2025-04-11",
+			"id": 7804,
+			"organization": "Sisäministeriö (SM)",
+			"department": "Poliisiosasto",
+			"unit": "Kansainvälisten ja EU-asioiden yksikkö",
+			"title": "-",
+			"name": "-"
+		},
+		"sv": {
+			"createdAt": "2025-04-11",
+			"id": 7805,
+			"organization": "Inrikesministeriet (IM)",
+			"department": "Polisavdelningen",
+			"unit": "Enheten för internationella ärenden och EU-frågor",
+			"title": "-",
+			"name": "-"
+		},
+		"en": {
+			"createdAt": "2025-04-11",
+			"id": 7806,
+			"organization": "Ministry of the Interior",
+			"department": "Police Department",
+			"unit": "International and EU Affairs",
+			"title": "-",
+			"name": "-"
+		}
 	}
 ]
